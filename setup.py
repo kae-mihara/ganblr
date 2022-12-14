@@ -11,7 +11,7 @@ except Exception as e:
 
 setup(
     name = "ganblr",
-    version = "0.1.0",
+    version = "0.1.1",
     keywords = ["ganblr", "tulip"],
     description = "Ganblr Toolbox",
     long_description = long_description,
