@@ -6,5 +6,5 @@ __version__ = '0.1.1'
 
 from .kdb import KdbHighOrderFeatureEncoder
 from .utils import get_demo_data
-
-__all__ = ['models', 'KdbHighOrderFeatureEncoder', 'get_demo_data']
+from .pyitlib import pyitlib
+__all__ = ['models', 'KdbHighOrderFeatureEncoder', 'get_demo_data', 'pyitlib']

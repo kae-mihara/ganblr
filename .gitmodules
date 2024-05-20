@@ -1,0 +1,3 @@
+[submodule "ganblr/pyitlib"]
+	path = ganblr/pyitlib
+	url = https://github.com/kae-mihara/pyitlib.git
