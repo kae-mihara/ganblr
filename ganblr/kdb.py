@@ -1,7 +1,6 @@
 import numpy as np
 #import networkx as nx
-from .pyitlib.pyitlib import discrete_random_variable as drv
-
+from .pyitlib import discrete_random_variable as drv
 def build_graph(X, y, k=2):
   '''
   kDB algorithm

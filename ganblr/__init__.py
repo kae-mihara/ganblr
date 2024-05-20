@@ -2,7 +2,7 @@
 
 __author__ = """Tulip Lab"""
 __email__ = 'jhzhou@tuliplab.academy'
-__version__ = '0.1.1'
+__version__ = '0.1.3'
 
 from .kdb import KdbHighOrderFeatureEncoder
 from .utils import get_demo_data

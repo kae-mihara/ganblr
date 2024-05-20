@@ -11,7 +11,7 @@ except Exception as e:
 
 setup(
     name = "ganblr",
-    version = "0.1.2",
+    version = "0.1.3",
     keywords = ["ganblr", "tulip"],
     description = "Ganblr Toolbox",
     long_description = long_description,
@@ -25,7 +25,7 @@ setup(
 
     packages = find_packages(),
     include_package_data = True,
-    install_requires = ["numpy", "pandas", "tensorflow>=2.3", "scikit-learn>=0.24", "pyitlib", "pgmpy"],
+    install_requires = ["numpy", "pandas", "tensorflow>=2.3", "scikit-learn>=0.24", "pgmpy"],
     platforms = "any",
 
     scripts = [],
